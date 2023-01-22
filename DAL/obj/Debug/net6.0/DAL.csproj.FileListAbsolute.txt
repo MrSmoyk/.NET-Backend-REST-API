@@ -1,0 +1,51 @@
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\MrSmoyk\Documents\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\DAL\obj\Debug\net6.0\ref\DAL.dll

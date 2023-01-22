@@ -1,0 +1,51 @@
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\DAL.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\DAL.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Service\obj\Debug\net6.0\ref\Service.dll

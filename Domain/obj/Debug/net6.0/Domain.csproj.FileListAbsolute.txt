@@ -1,0 +1,40 @@
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12.WebApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.Resourses.ErrorMessageResources.resources
+C:\Users\MrSmoyk\Documents\Task12\Task12.WebApi\Domain\obj\Debug\net6.0\Domain.csproj.GenerateResource.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.Resourses.ErrorMessageResources.resources
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.csproj.GenerateResource.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\MrSmoyk\Desktop\To githab\WebApi\Domain\obj\Debug\net6.0\ref\Domain.dll
